@@ -125,4 +125,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add downloads-blog.xml
           git diff --staged --quiet || git commit -m "chore: update downloads-blog.xml [skip ci]"
+          git pull --rebase
           git push
