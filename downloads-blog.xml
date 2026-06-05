@@ -18,14 +18,14 @@
     <code>ca-ES</code>
     <name>Catalan</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_ca-ES.zip</download>
-    <size>54137</size>
+    <size>54138</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
     <code>zh-CN</code>
     <name>Chinese (Simplified)</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_zh-CN.zip</download>
-    <size>150998</size>
+    <size>150999</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
@@ -60,7 +60,7 @@
     <code>nl-NL</code>
     <name>Dutch</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_nl-NL.zip</download>
-    <size>229286</size>
+    <size>229287</size>
     <updated>2026-06-02 09:19:40</updated>
   </language>
   <language>
@@ -74,7 +74,7 @@
     <code>et-EE</code>
     <name>Estonian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_et-EE.zip</download>
-    <size>11341</size>
+    <size>11340</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
@@ -88,21 +88,21 @@
     <code>fr-FR</code>
     <name>French</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_fr-FR.zip</download>
-    <size>165802</size>
-    <updated>2026-05-13 11:19:40</updated>
+    <size>165820</size>
+    <updated>2026-06-05 19:19:38</updated>
   </language>
   <language>
     <code>de-DE</code>
     <name>German</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_de-DE.zip</download>
-    <size>105409</size>
+    <size>105410</size>
     <updated>2026-05-20 16:19:52</updated>
   </language>
   <language>
     <code>el-GR</code>
     <name>Greek</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_el-GR.zip</download>
-    <size>189080</size>
+    <size>189081</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
@@ -137,14 +137,14 @@
     <code>lv-LV</code>
     <name>Latvian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_lv-LV.zip</download>
-    <size>6821</size>
+    <size>6822</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
     <code>nb-NO</code>
     <name>Norwegian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_nb-NO.zip</download>
-    <size>114290</size>
+    <size>114291</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
@@ -165,14 +165,14 @@
     <code>pt-PT</code>
     <name>Portuguese</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_pt-PT.zip</download>
-    <size>182749</size>
+    <size>182750</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
     <code>pt-BR</code>
     <name>Portuguese (Brazil)</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_pt-BR.zip</download>
-    <size>130577</size>
+    <size>130578</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
@@ -193,7 +193,7 @@
     <code>sl-SI</code>
     <name>Slovenian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_sl-SI.zip</download>
-    <size>168316</size>
+    <size>168317</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
@@ -228,14 +228,14 @@
     <code>uk-UA</code>
     <name>Ukrainian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_uk-UA.zip</download>
-    <size>208612</size>
+    <size>208613</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
   <language>
     <code>vi-VN</code>
     <name>Vietnamese</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_vi-VN.zip</download>
-    <size>134468</size>
+    <size>134469</size>
     <updated>2026-05-11 17:58:04</updated>
   </language>
 </languages>
