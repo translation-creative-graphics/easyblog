@@ -52,7 +52,7 @@
     <code>cs-CZ</code>
     <name>Czech</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_cs-CZ.zip</download>
-    <size>129990</size>
+    <size>129991</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>66</progress>
   </language>
@@ -68,8 +68,8 @@
     <code>nl-NL</code>
     <name>Dutch</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_nl-NL.zip</download>
-    <size>229287</size>
-    <updated>2026-06-02 09:19:40</updated>
+    <size>229973</size>
+    <updated>2026-06-13 13:19:40</updated>
     <progress>100</progress>
   </language>
   <language>
@@ -84,7 +84,7 @@
     <code>et-EE</code>
     <name>Estonian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_et-EE.zip</download>
-    <size>11341</size>
+    <size>11342</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>9</progress>
   </language>
@@ -92,7 +92,7 @@
     <code>fi-FI</code>
     <name>Finnish</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_fi-FI.zip</download>
-    <size>170712</size>
+    <size>170713</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>0</progress>
   </language>
@@ -164,7 +164,7 @@
     <code>nb-NO</code>
     <name>Norwegian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_nb-NO.zip</download>
-    <size>114291</size>
+    <size>114292</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>61</progress>
   </language>
@@ -180,7 +180,7 @@
     <code>pl-PL</code>
     <name>Polish</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_pl-PL.zip</download>
-    <size>137599</size>
+    <size>137600</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>69</progress>
   </language>
@@ -188,7 +188,7 @@
     <code>pt-PT</code>
     <name>Portuguese</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_pt-PT.zip</download>
-    <size>182750</size>
+    <size>182751</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>89</progress>
   </language>
@@ -252,7 +252,7 @@
     <code>tr-TR</code>
     <name>Turkish</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_tr-TR.zip</download>
-    <size>189692</size>
+    <size>189693</size>
     <updated>2026-05-11 17:58:04</updated>
     <progress>95</progress>
   </language>
