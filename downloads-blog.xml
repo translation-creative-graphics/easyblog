@@ -4,7 +4,7 @@
     <code>ar-SA</code>
     <name>Arabic</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_ar-SA.zip</download>
-    <size>200382</size>
+    <size>200383</size>
     <updated>2026-08-29 16:49:55</updated>
     <progress>88</progress>
   </language>
@@ -28,7 +28,7 @@
     <code>zh-CN</code>
     <name>Chinese (Simplified)</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_zh-CN.zip</download>
-    <size>159155</size>
+    <size>159156</size>
     <updated>2026-08-29 16:58:12</updated>
     <progress>82</progress>
   </language>
@@ -68,8 +68,8 @@
     <code>nl-NL</code>
     <name>Dutch</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_nl-NL.zip</download>
-    <size>235631</size>
-    <updated>2026-08-29 16:55:05</updated>
+    <size>238574</size>
+    <updated>2026-09-02 10:25:36</updated>
     <progress>100</progress>
   </language>
   <language>
@@ -84,7 +84,7 @@
     <code>et-EE</code>
     <name>Estonian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_et-EE.zip</download>
-    <size>20068</size>
+    <size>20069</size>
     <updated>2026-08-29 16:41:46</updated>
     <progress>9</progress>
   </language>
@@ -116,7 +116,7 @@
     <code>el-GR</code>
     <name>Greek</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_el-GR.zip</download>
-    <size>198386</size>
+    <size>198387</size>
     <updated>2026-08-29 16:51:33</updated>
     <progress>88</progress>
   </language>
@@ -164,7 +164,7 @@
     <code>nb-NO</code>
     <name>Norwegian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_nb-NO.zip</download>
-    <size>122281</size>
+    <size>122282</size>
     <updated>2026-08-29 16:54:42</updated>
     <progress>60</progress>
   </language>
@@ -188,7 +188,7 @@
     <code>pt-PT</code>
     <name>Portuguese</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_pt-PT.zip</download>
-    <size>190899</size>
+    <size>190900</size>
     <updated>2026-08-29 16:55:56</updated>
     <progress>89</progress>
   </language>
@@ -220,7 +220,7 @@
     <code>sl-SI</code>
     <name>Slovenian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_sl-SI.zip</download>
-    <size>176650</size>
+    <size>176651</size>
     <updated>2026-08-29 16:56:45</updated>
     <progress>83</progress>
   </language>
@@ -252,8 +252,8 @@
     <code>tr-TR</code>
     <name>Turkish</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_tr-TR.zip</download>
-    <size>197759</size>
-    <updated>2026-08-29 16:57:25</updated>
+    <size>198923</size>
+    <updated>2026-09-02 10:25:36</updated>
     <progress>94</progress>
   </language>
   <language>
