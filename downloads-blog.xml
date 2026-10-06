@@ -108,8 +108,8 @@
     <code>de-DE</code>
     <name>German</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_de-DE.zip</download>
-    <size>116529</size>
-    <updated>2026-08-29 16:51:17</updated>
+    <size>116591</size>
+    <updated>2026-10-06 15:19:39</updated>
     <progress>58</progress>
   </language>
   <language>
@@ -204,7 +204,7 @@
     <code>ru-RU</code>
     <name>Russian</name>
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_ru-RU.zip</download>
-    <size>198914</size>
+    <size>198913</size>
     <updated>2026-09-03 01:45:38</updated>
     <progress>78</progress>
   </language>
