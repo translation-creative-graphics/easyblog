@@ -38,7 +38,7 @@
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_zh-TW.zip</download>
     <size>73321</size>
     <updated>2026-08-29 16:58:27</updated>
-    <progress>39</progress>
+    <progress>38</progress>
   </language>
   <language>
     <code>hr-HR</code>
@@ -150,7 +150,7 @@
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_ja-JP.zip</download>
     <size>146764</size>
     <updated>2026-09-03 01:45:38</updated>
-    <progress>67</progress>
+    <progress>66</progress>
   </language>
   <language>
     <code>lv-LV</code>
@@ -270,6 +270,6 @@
     <download>https://github.com/translation-creative-graphics/easyblog/releases/download/latest/com_easyblog_vi-VN.zip</download>
     <size>146918</size>
     <updated>2026-09-03 01:45:38</updated>
-    <progress>63</progress>
+    <progress>62</progress>
   </language>
 </languages>
